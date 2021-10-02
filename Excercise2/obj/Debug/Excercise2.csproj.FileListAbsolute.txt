@@ -1,0 +1,6 @@
+D:\01. Project C Sharp\CSharpFinalTest\CSharpFinalTest\Excercise2\bin\Debug\Excercise2.exe
+D:\01. Project C Sharp\CSharpFinalTest\CSharpFinalTest\Excercise2\bin\Debug\Excercise2.pdb
+D:\01. Project C Sharp\CSharpFinalTest\CSharpFinalTest\Excercise2\obj\Debug\Excercise2.csprojAssemblyReference.cache
+D:\01. Project C Sharp\CSharpFinalTest\CSharpFinalTest\Excercise2\obj\Debug\Excercise2.csproj.CoreCompileInputs.cache
+D:\01. Project C Sharp\CSharpFinalTest\CSharpFinalTest\Excercise2\obj\Debug\Excercise2.exe
+D:\01. Project C Sharp\CSharpFinalTest\CSharpFinalTest\Excercise2\obj\Debug\Excercise2.pdb
